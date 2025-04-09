@@ -1,2 +1,4 @@
 *.osc*
 *.tar*
+*.spec
+
